@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+.btnNormal{
+    padding: 7px;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    border: 1px solid rgb(88, 85, 85);
+}
+.btnNormal:hover{
+background-color: rgb(20, 20, 20);
+}
+.language-javascript{
+    overflow: scroll;
+}
+.heading p{
+    font-size: 20px !important;
+    margin-bottom: 8px;
+    margin-top: 7px;
+    font-weight: 400;
+}
+.language-javascript{
+    color:rgb(204, 192, 192)  !important;
+
+}
+ol, ul, menu {
+    color: rgb(204, 192, 192) !important;
+}
