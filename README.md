@@ -3,6 +3,7 @@
 **Codedify** is a modern AI-powered code review platform built with **React.js**, **Tailwind CSS**, and the **Google Gemini AI API**.
 It helps developers review, analyze, and improve their code efficiently with AI-driven insights and an elegant user interface.
 
+✨ Live Demo: [View Live](https://codei-fy.vercel.app/) 
 ---
 
 ## 🚀 Features
